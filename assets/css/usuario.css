@@ -1,0 +1,25 @@
+.profile {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .profile h1 {
+    text-align: center;
+  }
+  
+  .profile-form label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .profile-form input, .profile-form textarea {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+  }
+  
+  .profile-form input[type="submit"] {
+    margin-top: 10px;
+  }
+  
